@@ -198,7 +198,7 @@ ul {
 }
 .header-nav > a {
 	display: inline-block;
-	margin-left: 114px;
+	margin-left: 95px;
 	margin-bottom: 20px;
 }
 main {
@@ -1475,7 +1475,7 @@ footer {
 .footer-end-logo > img:nth-child(1) {
 	width: 52px;
 	height: auto;
-	margin-right: 46px;*/
+	margin-right: 46px;
 }
 .footer-end-logo > img:nth-child(2) {
 	width: 102px;
@@ -1734,10 +1734,10 @@ footer {
 	margin-left: 390px;
 }
 
-::-webkit-user-select: none;
+/* ::-webkit-user-select: none;
 ::-moz-user-select: -moz-none;
 ::-ms-user-select: none;
- ::user-select: none;
+::user-select: none; */
 
 /* Стилизуем placeholder */
 
